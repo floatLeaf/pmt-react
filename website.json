@@ -1,0 +1,9 @@
+{
+	"include": [
+		"admin.js"
+	],
+	"build": [
+		"admin.js", 
+		"app.js"
+	]
+}
